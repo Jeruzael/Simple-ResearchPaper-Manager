@@ -1,6 +1,7 @@
 # Simple-ResearchPaper-Manager
 
 **OBJECTIVE**
+
 GENERAL
 - To create a simple research archive that stores research information and check plagriarism.
 
